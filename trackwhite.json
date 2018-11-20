@@ -235,10 +235,12 @@
             "admob.com",
             "cc-dt.com",
             "destinationurl.com",
+            "doubleclick.net",
             "gmail.com",
             "google-analytics.com",
             "googleadservices.com",
             "googlemail.com",
+            "googlesyndication.com",
             "googlevideo.com",
             "googletagservices.com",
             "invitemedia.com",
@@ -9720,12 +9722,7 @@
             "yimg.jp",
             "yahooapis.jp",
             "flurry.com",
-            "dapper.net",
-            "fake1.net",
-            "fake2.net",
-            "fake3.net",
-            "fake4.net",
-            "fake5.net"
+            "dapper.net"
         ]
     }
 }
